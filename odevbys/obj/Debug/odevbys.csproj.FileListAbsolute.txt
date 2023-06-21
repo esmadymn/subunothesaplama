@@ -1,0 +1,11 @@
+C:\Users\esma\source\repos\odevbys\odevbys\bin\Debug\odevbys.exe.config
+C:\Users\esma\source\repos\odevbys\odevbys\bin\Debug\odevbys.exe
+C:\Users\esma\source\repos\odevbys\odevbys\bin\Debug\odevbys.pdb
+C:\Users\esma\source\repos\odevbys\odevbys\obj\Debug\odevbys.csproj.AssemblyReference.cache
+C:\Users\esma\source\repos\odevbys\odevbys\obj\Debug\odevbys.csproj.SuggestedBindingRedirects.cache
+C:\Users\esma\source\repos\odevbys\odevbys\obj\Debug\odevbys.Form1.resources
+C:\Users\esma\source\repos\odevbys\odevbys\obj\Debug\odevbys.Properties.Resources.resources
+C:\Users\esma\source\repos\odevbys\odevbys\obj\Debug\odevbys.csproj.GenerateResource.cache
+C:\Users\esma\source\repos\odevbys\odevbys\obj\Debug\odevbys.csproj.CoreCompileInputs.cache
+C:\Users\esma\source\repos\odevbys\odevbys\obj\Debug\odevbys.exe
+C:\Users\esma\source\repos\odevbys\odevbys\obj\Debug\odevbys.pdb
